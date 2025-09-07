@@ -12,8 +12,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace DoConnect.Api.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    [Migration("20250907101639_ThanuCreate")]
-    partial class ThanuCreate
+    [Migration("20250907124000_InCreate")]
+    partial class InCreate
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)

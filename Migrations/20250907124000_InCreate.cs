@@ -6,7 +6,7 @@ using Microsoft.EntityFrameworkCore.Migrations;
 namespace DoConnect.Api.Migrations
 {
     /// <inheritdoc />
-    public partial class TCreate : Migration
+    public partial class InCreate : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)

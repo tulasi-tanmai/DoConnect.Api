@@ -855,3 +855,4 @@ E:\program files\DOCONNECT WIPRO PROJECT\Backend_DoConnect\DoConnect.Api\DoConne
 E:\program files\DOCONNECT WIPRO PROJECT\Backend_DoConnect\DoConnect.Api\DoConnect.Api\obj\Debug\net9.0\DoConnect.Api.pdb
 E:\program files\DOCONNECT WIPRO PROJECT\Backend_DoConnect\DoConnect.Api\DoConnect.Api\obj\Debug\net9.0\DoConnect.Api.genruntimeconfig.cache
 E:\program files\DOCONNECT WIPRO PROJECT\Backend_DoConnect\DoConnect.Api\DoConnect.Api\obj\Debug\net9.0\ref\DoConnect.Api.dll
+E:\program files\DOCONNECT WIPRO PROJECT\Backend_DoConnect\DoConnect.Api\DoConnect.Api\obj\Debug\net9.0\DoConnect.Api.sourcelink.json

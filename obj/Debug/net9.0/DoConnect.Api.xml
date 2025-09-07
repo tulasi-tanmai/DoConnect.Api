@@ -4,28 +4,16 @@
         <name>DoConnect.Api</name>
     </assembly>
     <members>
-        <member name="T:DoConnect.Api.Migrations.TCreate">
+        <member name="T:DoConnect.Api.Migrations.InCreate">
             <inheritdoc />
         </member>
-        <member name="M:DoConnect.Api.Migrations.TCreate.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+        <member name="M:DoConnect.Api.Migrations.InCreate.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
             <inheritdoc />
         </member>
-        <member name="M:DoConnect.Api.Migrations.TCreate.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+        <member name="M:DoConnect.Api.Migrations.InCreate.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
             <inheritdoc />
         </member>
-        <member name="M:DoConnect.Api.Migrations.TCreate.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
-            <inheritdoc />
-        </member>
-        <member name="T:DoConnect.Api.Migrations.ThanuCreate">
-            <inheritdoc />
-        </member>
-        <member name="M:DoConnect.Api.Migrations.ThanuCreate.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
-            <inheritdoc />
-        </member>
-        <member name="M:DoConnect.Api.Migrations.ThanuCreate.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
-            <inheritdoc />
-        </member>
-        <member name="M:DoConnect.Api.Migrations.ThanuCreate.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+        <member name="M:DoConnect.Api.Migrations.InCreate.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
             <inheritdoc />
         </member>
     </members>

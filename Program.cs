@@ -56,7 +56,7 @@ builder.Services.AddSwaggerGen(c =>
 
 // EF Core
 var connStr = builder.Configuration.GetConnectionString("DefaultConnection")
-    ?? "Data Source=(localdb)\\MSSQLLocalDB;Initial Catalog=TulDoConnect;Integrated Security=True;Persist Security Info=False;Pooling=False;Multiple Active Result Sets=False;Encrypt=True;Trust Server Certificate=True;Application Name=\"SQL Server Management Studio\";Command Timeout=0";
+    ?? "Data Source=(localdb)\\MSSQLLocalDB;Initial Catalog=ThanmaiisriDoConnect;Integrated Security=True;Persist Security Info=False;Pooling=False;Multiple Active Result Sets=False;Encrypt=True;Trust Server Certificate=True;Application Name=\"SQL Server Management Studio\";Command Timeout=0";
 builder.Services.AddDbContext<AppDbContext>(o => o.UseSqlServer(connStr));
 
 // JWT Auth
