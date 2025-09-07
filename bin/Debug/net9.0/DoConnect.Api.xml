@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>DoConnect.Api</name>
+    </assembly>
+    <members>
+        <member name="T:DoConnect.Api.Migrations.TCreate">
+            <inheritdoc />
+        </member>
+        <member name="M:DoConnect.Api.Migrations.TCreate.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:DoConnect.Api.Migrations.TCreate.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:DoConnect.Api.Migrations.TCreate.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="T:DoConnect.Api.Migrations.ThanuCreate">
+            <inheritdoc />
+        </member>
+        <member name="M:DoConnect.Api.Migrations.ThanuCreate.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:DoConnect.Api.Migrations.ThanuCreate.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:DoConnect.Api.Migrations.ThanuCreate.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+    </members>
+</doc>

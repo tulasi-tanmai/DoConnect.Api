@@ -1,0 +1,857 @@
+C:\Users\HP\source\repos\day 28\DoConnect\DoConnect.Api\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\HP\source\repos\day 28\DoConnect\DoConnect.Api\bin\Debug\net9.0\appsettings.json
+C:\Users\HP\source\repos\day 28\DoConnect\DoConnect.Api\bin\Debug\net9.0\DoConnect.Api.staticwebassets.runtime.json
+C:\Users\HP\source\repos\day 28\DoConnect\DoConnect.Api\bin\Debug\net9.0\DoConnect.Api.staticwebassets.endpoints.json
+C:\Users\HP\source\repos\day 28\DoConnect\DoConnect.Api\bin\Debug\net9.0\DoConnect.Api.exe
+C:\Users\HP\source\repos\day 28\DoConnect\DoConnect.Api\bin\Debug\net9.0\DoConnect.Api.deps.json
+C:\Users\HP\source\repos\day 28\DoConnect\DoConnect.Api\bin\Debug\net9.0\DoConnect.Api.runtimeconfig.json
+C:\Users\HP\source\repos\day 28\DoConnect\DoConnect.Api\bin\Debug\net9.0\DoConnect.Api.dll
+C:\Users\HP\source\repos\day 28\DoConnect\DoConnect.Api\bin\Debug\net9.0\DoConnect.Api.pdb
+C:\Users\HP\source\repos\day 28\DoConnect\DoConnect.Api\bin\Debug\net9.0\Azure.Core.dll
+C:\Users\HP\source\repos\day 28\DoConnect\DoConnect.Api\bin\Debug\net9.0\Azure.Identity.dll
+C:\Users\HP\source\repos\day 28\DoConnect\DoConnect.Api\bin\Debug\net9.0\BCrypt.Net-Next.dll
+C:\Users\HP\source\repos\day 28\DoConnect\DoConnect.Api\bin\Debug\net9.0\Humanizer.dll
+C:\Users\HP\source\repos\day 28\DoConnect\DoConnect.Api\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\HP\source\repos\day 28\DoConnect\DoConnect.Api\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\HP\source\repos\day 28\DoConnect\DoConnect.Api\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\HP\source\repos\day 28\DoConnect\DoConnect.Api\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\Users\HP\source\repos\day 28\DoConnect\DoConnect.Api\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\HP\source\repos\day 28\DoConnect\DoConnect.Api\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HP\source\repos\day 28\DoConnect\DoConnect.Api\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\HP\source\repos\day 28\DoConnect\DoConnect.Api\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\HP\source\repos\day 28\DoConnect\DoConnect.Api\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\HP\source\repos\day 28\DoConnect\DoConnect.Api\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\HP\source\repos\day 28\DoConnect\DoConnect.Api\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\HP\source\repos\day 28\DoConnect\DoConnect.Api\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\HP\source\repos\day 28\DoConnect\DoConnect.Api\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\HP\source\repos\day 28\DoConnect\DoConnect.Api\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\HP\source\repos\day 28\DoConnect\DoConnect.Api\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\HP\source\repos\day 28\DoConnect\DoConnect.Api\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\HP\source\repos\day 28\DoConnect\DoConnect.Api\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\HP\source\repos\day 28\DoConnect\DoConnect.Api\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\HP\source\repos\day 28\DoConnect\DoConnect.Api\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\HP\source\repos\day 28\DoConnect\DoConnect.Api\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\HP\source\repos\day 28\DoConnect\DoConnect.Api\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\HP\source\repos\day 28\DoConnect\DoConnect.Api\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\HP\source\repos\day 28\DoConnect\DoConnect.Api\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\HP\source\repos\day 28\DoConnect\DoConnect.Api\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\HP\source\repos\day 28\DoConnect\DoConnect.Api\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\HP\source\repos\day 28\DoConnect\DoConnect.Api\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\HP\source\repos\day 28\DoConnect\DoConnect.Api\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+C:\Users\HP\source\repos\day 28\DoConnect\DoConnect.Api\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\HP\source\repos\day 28\DoConnect\DoConnect.Api\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\HP\source\repos\day 28\DoConnect\DoConnect.Api\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\HP\source\repos\day 28\DoConnect\DoConnect.Api\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\HP\source\repos\day 28\DoConnect\DoConnect.Api\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\HP\source\repos\day 28\DoConnect\DoConnect.Api\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\HP\source\repos\day 28\DoConnect\DoConnect.Api\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\HP\source\repos\day 28\DoConnect\DoConnect.Api\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\HP\source\repos\day 28\DoConnect\DoConnect.Api\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+C:\Users\HP\source\repos\day 28\DoConnect\DoConnect.Api\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\HP\source\repos\day 28\DoConnect\DoConnect.Api\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Users\HP\source\repos\day 28\DoConnect\DoConnect.Api\bin\Debug\net9.0\System.ClientModel.dll
+C:\Users\HP\source\repos\day 28\DoConnect\DoConnect.Api\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\HP\source\repos\day 28\DoConnect\DoConnect.Api\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Users\HP\source\repos\day 28\DoConnect\DoConnect.Api\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Users\HP\source\repos\day 28\DoConnect\DoConnect.Api\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Users\HP\source\repos\day 28\DoConnect\DoConnect.Api\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Users\HP\source\repos\day 28\DoConnect\DoConnect.Api\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Users\HP\source\repos\day 28\DoConnect\DoConnect.Api\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\HP\source\repos\day 28\DoConnect\DoConnect.Api\bin\Debug\net9.0\System.Drawing.Common.dll
+C:\Users\HP\source\repos\day 28\DoConnect\DoConnect.Api\bin\Debug\net9.0\System.Formats.Asn1.dll
+C:\Users\HP\source\repos\day 28\DoConnect\DoConnect.Api\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\HP\source\repos\day 28\DoConnect\DoConnect.Api\bin\Debug\net9.0\System.Memory.Data.dll
+C:\Users\HP\source\repos\day 28\DoConnect\DoConnect.Api\bin\Debug\net9.0\System.Runtime.Caching.dll
+C:\Users\HP\source\repos\day 28\DoConnect\DoConnect.Api\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\HP\source\repos\day 28\DoConnect\DoConnect.Api\bin\Debug\net9.0\System.Security.Permissions.dll
+C:\Users\HP\source\repos\day 28\DoConnect\DoConnect.Api\bin\Debug\net9.0\System.Text.Json.dll
+C:\Users\HP\source\repos\day 28\DoConnect\DoConnect.Api\bin\Debug\net9.0\System.Windows.Extensions.dll
+C:\Users\HP\source\repos\day 28\DoConnect\DoConnect.Api\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\source\repos\day 28\DoConnect\DoConnect.Api\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\source\repos\day 28\DoConnect\DoConnect.Api\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\source\repos\day 28\DoConnect\DoConnect.Api\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\source\repos\day 28\DoConnect\DoConnect.Api\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\source\repos\day 28\DoConnect\DoConnect.Api\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\source\repos\day 28\DoConnect\DoConnect.Api\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\source\repos\day 28\DoConnect\DoConnect.Api\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\source\repos\day 28\DoConnect\DoConnect.Api\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\source\repos\day 28\DoConnect\DoConnect.Api\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\source\repos\day 28\DoConnect\DoConnect.Api\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\source\repos\day 28\DoConnect\DoConnect.Api\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\source\repos\day 28\DoConnect\DoConnect.Api\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\source\repos\day 28\DoConnect\DoConnect.Api\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\source\repos\day 28\DoConnect\DoConnect.Api\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\source\repos\day 28\DoConnect\DoConnect.Api\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\source\repos\day 28\DoConnect\DoConnect.Api\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\source\repos\day 28\DoConnect\DoConnect.Api\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\source\repos\day 28\DoConnect\DoConnect.Api\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\source\repos\day 28\DoConnect\DoConnect.Api\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\source\repos\day 28\DoConnect\DoConnect.Api\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\source\repos\day 28\DoConnect\DoConnect.Api\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\source\repos\day 28\DoConnect\DoConnect.Api\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\source\repos\day 28\DoConnect\DoConnect.Api\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\source\repos\day 28\DoConnect\DoConnect.Api\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\source\repos\day 28\DoConnect\DoConnect.Api\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\source\repos\day 28\DoConnect\DoConnect.Api\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\source\repos\day 28\DoConnect\DoConnect.Api\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\source\repos\day 28\DoConnect\DoConnect.Api\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\source\repos\day 28\DoConnect\DoConnect.Api\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\source\repos\day 28\DoConnect\DoConnect.Api\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\source\repos\day 28\DoConnect\DoConnect.Api\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\source\repos\day 28\DoConnect\DoConnect.Api\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\source\repos\day 28\DoConnect\DoConnect.Api\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\source\repos\day 28\DoConnect\DoConnect.Api\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\source\repos\day 28\DoConnect\DoConnect.Api\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\source\repos\day 28\DoConnect\DoConnect.Api\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\source\repos\day 28\DoConnect\DoConnect.Api\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\source\repos\day 28\DoConnect\DoConnect.Api\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\source\repos\day 28\DoConnect\DoConnect.Api\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\source\repos\day 28\DoConnect\DoConnect.Api\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\source\repos\day 28\DoConnect\DoConnect.Api\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\source\repos\day 28\DoConnect\DoConnect.Api\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\source\repos\day 28\DoConnect\DoConnect.Api\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\source\repos\day 28\DoConnect\DoConnect.Api\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\source\repos\day 28\DoConnect\DoConnect.Api\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\source\repos\day 28\DoConnect\DoConnect.Api\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\source\repos\day 28\DoConnect\DoConnect.Api\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\source\repos\day 28\DoConnect\DoConnect.Api\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\source\repos\day 28\DoConnect\DoConnect.Api\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\source\repos\day 28\DoConnect\DoConnect.Api\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\source\repos\day 28\DoConnect\DoConnect.Api\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\source\repos\day 28\DoConnect\DoConnect.Api\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\HP\source\repos\day 28\DoConnect\DoConnect.Api\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\HP\source\repos\day 28\DoConnect\DoConnect.Api\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\HP\source\repos\day 28\DoConnect\DoConnect.Api\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\HP\source\repos\day 28\DoConnect\DoConnect.Api\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\HP\source\repos\day 28\DoConnect\DoConnect.Api\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\HP\source\repos\day 28\DoConnect\DoConnect.Api\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\HP\source\repos\day 28\DoConnect\DoConnect.Api\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\HP\source\repos\day 28\DoConnect\DoConnect.Api\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\HP\source\repos\day 28\DoConnect\DoConnect.Api\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\HP\source\repos\day 28\DoConnect\DoConnect.Api\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\HP\source\repos\day 28\DoConnect\DoConnect.Api\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\HP\source\repos\day 28\DoConnect\DoConnect.Api\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\HP\source\repos\day 28\DoConnect\DoConnect.Api\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\HP\source\repos\day 28\DoConnect\DoConnect.Api\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\HP\source\repos\day 28\DoConnect\DoConnect.Api\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\source\repos\day 28\DoConnect\DoConnect.Api\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\source\repos\day 28\DoConnect\DoConnect.Api\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\source\repos\day 28\DoConnect\DoConnect.Api\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\source\repos\day 28\DoConnect\DoConnect.Api\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\HP\source\repos\day 28\DoConnect\DoConnect.Api\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\HP\source\repos\day 28\DoConnect\DoConnect.Api\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\HP\source\repos\day 28\DoConnect\DoConnect.Api\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\HP\source\repos\day 28\DoConnect\DoConnect.Api\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\HP\source\repos\day 28\DoConnect\DoConnect.Api\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\HP\source\repos\day 28\DoConnect\DoConnect.Api\obj\Debug\net9.0\DoConnect.Api.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\day 28\DoConnect\DoConnect.Api\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\HP\source\repos\day 28\DoConnect\DoConnect.Api\obj\Debug\net9.0\DoConnect.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\day 28\DoConnect\DoConnect.Api\obj\Debug\net9.0\DoConnect.Api.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\day 28\DoConnect\DoConnect.Api\obj\Debug\net9.0\DoConnect.Api.AssemblyInfo.cs
+C:\Users\HP\source\repos\day 28\DoConnect\DoConnect.Api\obj\Debug\net9.0\DoConnect.Api.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\day 28\DoConnect\DoConnect.Api\obj\Debug\net9.0\DoConnect.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\HP\source\repos\day 28\DoConnect\DoConnect.Api\obj\Debug\net9.0\DoConnect.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HP\source\repos\day 28\DoConnect\DoConnect.Api\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\HP\source\repos\day 28\DoConnect\DoConnect.Api\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\HP\source\repos\day 28\DoConnect\DoConnect.Api\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\HP\source\repos\day 28\DoConnect\DoConnect.Api\obj\Debug\net9.0\scopedcss\bundle\DoConnect.Api.styles.css
+C:\Users\HP\source\repos\day 28\DoConnect\DoConnect.Api\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\HP\source\repos\day 28\DoConnect\DoConnect.Api\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\HP\source\repos\day 28\DoConnect\DoConnect.Api\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\HP\source\repos\day 28\DoConnect\DoConnect.Api\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\HP\source\repos\day 28\DoConnect\DoConnect.Api\obj\Debug\net9.0\DoConnec.A17FCAD5.Up2Date
+C:\Users\HP\source\repos\day 28\DoConnect\DoConnect.Api\obj\Debug\net9.0\DoConnect.Api.dll
+C:\Users\HP\source\repos\day 28\DoConnect\DoConnect.Api\obj\Debug\net9.0\refint\DoConnect.Api.dll
+C:\Users\HP\source\repos\day 28\DoConnect\DoConnect.Api\obj\Debug\net9.0\DoConnect.Api.pdb
+C:\Users\HP\source\repos\day 28\DoConnect\DoConnect.Api\obj\Debug\net9.0\DoConnect.Api.genruntimeconfig.cache
+C:\Users\HP\source\repos\day 28\DoConnect\DoConnect.Api\obj\Debug\net9.0\ref\DoConnect.Api.dll
+C:\Users\HP\source\repos\day 28\DoConnect\DoConnect.Api\bin\Debug\net9.0\DoConnect.Api.xml
+C:\Users\HP\source\repos\day 28\DoConnect\DoConnect.Api\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\HP\source\repos\day 28\DoConnect\DoConnect.Api\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\HP\source\repos\day 28\DoConnect\DoConnect.Api\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\HP\source\repos\day 28\DoConnect\DoConnect.Api\obj\Debug\net9.0\DoConnect.Api.xml
+E:\Capstone\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\appsettings.Development.json
+E:\Capstone\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\appsettings.json
+E:\Capstone\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\DoConnect.Api.staticwebassets.runtime.json
+E:\Capstone\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\DoConnect.Api.staticwebassets.endpoints.json
+E:\Capstone\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\DoConnect.Api.exe
+E:\Capstone\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\DoConnect.Api.deps.json
+E:\Capstone\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\DoConnect.Api.runtimeconfig.json
+E:\Capstone\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\DoConnect.Api.dll
+E:\Capstone\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\DoConnect.Api.pdb
+E:\Capstone\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\DoConnect.Api.xml
+E:\Capstone\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\Azure.Core.dll
+E:\Capstone\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\Azure.Identity.dll
+E:\Capstone\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\BCrypt.Net-Next.dll
+E:\Capstone\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\Humanizer.dll
+E:\Capstone\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Capstone\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+E:\Capstone\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Capstone\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+E:\Capstone\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+E:\Capstone\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\Capstone\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Capstone\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Capstone\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+E:\Capstone\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+E:\Capstone\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+E:\Capstone\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+E:\Capstone\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Capstone\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Capstone\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Capstone\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Capstone\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Capstone\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Capstone\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Capstone\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Capstone\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Capstone\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+E:\Capstone\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+E:\Capstone\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Capstone\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+E:\Capstone\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+E:\Capstone\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+E:\Capstone\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Capstone\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Capstone\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Capstone\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+E:\Capstone\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+E:\Capstone\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Capstone\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+E:\Capstone\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\Microsoft.OpenApi.dll
+E:\Capstone\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+E:\Capstone\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+E:\Capstone\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\Mono.TextTemplating.dll
+E:\Capstone\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Capstone\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Capstone\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Capstone\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\System.ClientModel.dll
+E:\Capstone\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\System.CodeDom.dll
+E:\Capstone\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+E:\Capstone\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\System.Composition.Convention.dll
+E:\Capstone\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\System.Composition.Hosting.dll
+E:\Capstone\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\System.Composition.Runtime.dll
+E:\Capstone\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\System.Composition.TypedParts.dll
+E:\Capstone\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+E:\Capstone\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\System.Drawing.Common.dll
+E:\Capstone\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Capstone\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\System.Memory.Data.dll
+E:\Capstone\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\System.Runtime.Caching.dll
+E:\Capstone\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+E:\Capstone\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\System.Security.Permissions.dll
+E:\Capstone\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\System.Windows.Extensions.dll
+E:\Capstone\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Capstone\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\Capstone\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\Capstone\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Capstone\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\Capstone\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Capstone\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Capstone\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Capstone\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Capstone\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Capstone\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Capstone\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Capstone\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Capstone\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Capstone\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Capstone\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Capstone\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Capstone\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Capstone\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Capstone\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Capstone\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Capstone\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Capstone\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Capstone\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Capstone\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Capstone\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Capstone\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Capstone\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Capstone\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Capstone\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Capstone\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Capstone\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Capstone\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Capstone\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Capstone\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Capstone\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Capstone\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Capstone\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Capstone\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Capstone\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Capstone\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Capstone\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Capstone\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Capstone\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Capstone\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Capstone\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Capstone\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Capstone\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Capstone\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Capstone\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Capstone\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Capstone\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Capstone\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Capstone\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Capstone\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Capstone\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Capstone\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Capstone\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Capstone\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Capstone\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Capstone\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Capstone\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Capstone\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Capstone\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Capstone\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Capstone\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Capstone\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Capstone\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Capstone\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Capstone\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Capstone\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Capstone\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Capstone\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\Capstone\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\Capstone\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\Capstone\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Capstone\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\Capstone\DoConnect.Api\DoConnect.Api\obj\Debug\net9.0\DoConnect.Api.csproj.AssemblyReference.cache
+E:\Capstone\DoConnect.Api\DoConnect.Api\obj\Debug\net9.0\rpswa.dswa.cache.json
+E:\Capstone\DoConnect.Api\DoConnect.Api\obj\Debug\net9.0\DoConnect.Api.GeneratedMSBuildEditorConfig.editorconfig
+E:\Capstone\DoConnect.Api\DoConnect.Api\obj\Debug\net9.0\DoConnect.Api.AssemblyInfoInputs.cache
+E:\Capstone\DoConnect.Api\DoConnect.Api\obj\Debug\net9.0\DoConnect.Api.AssemblyInfo.cs
+E:\Capstone\DoConnect.Api\DoConnect.Api\obj\Debug\net9.0\DoConnect.Api.csproj.CoreCompileInputs.cache
+E:\Capstone\DoConnect.Api\DoConnect.Api\obj\Debug\net9.0\DoConnect.Api.MvcApplicationPartsAssemblyInfo.cs
+E:\Capstone\DoConnect.Api\DoConnect.Api\obj\Debug\net9.0\DoConnect.Api.MvcApplicationPartsAssemblyInfo.cache
+E:\Capstone\DoConnect.Api\DoConnect.Api\obj\Debug\net9.0\rjimswa.dswa.cache.json
+E:\Capstone\DoConnect.Api\DoConnect.Api\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+E:\Capstone\DoConnect.Api\DoConnect.Api\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+E:\Capstone\DoConnect.Api\DoConnect.Api\obj\Debug\net9.0\scopedcss\bundle\DoConnect.Api.styles.css
+E:\Capstone\DoConnect.Api\DoConnect.Api\obj\Debug\net9.0\staticwebassets.build.json
+E:\Capstone\DoConnect.Api\DoConnect.Api\obj\Debug\net9.0\staticwebassets.build.json.cache
+E:\Capstone\DoConnect.Api\DoConnect.Api\obj\Debug\net9.0\staticwebassets.development.json
+E:\Capstone\DoConnect.Api\DoConnect.Api\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+E:\Capstone\DoConnect.Api\DoConnect.Api\obj\Debug\net9.0\DoConnec.A17FCAD5.Up2Date
+E:\Capstone\DoConnect.Api\DoConnect.Api\obj\Debug\net9.0\DoConnect.Api.dll
+E:\Capstone\DoConnect.Api\DoConnect.Api\obj\Debug\net9.0\refint\DoConnect.Api.dll
+E:\Capstone\DoConnect.Api\DoConnect.Api\obj\Debug\net9.0\DoConnect.Api.xml
+E:\Capstone\DoConnect.Api\DoConnect.Api\obj\Debug\net9.0\DoConnect.Api.pdb
+E:\Capstone\DoConnect.Api\DoConnect.Api\obj\Debug\net9.0\DoConnect.Api.genruntimeconfig.cache
+E:\Capstone\DoConnect.Api\DoConnect.Api\obj\Debug\net9.0\ref\DoConnect.Api.dll
+E:\wipro capstone\DoConnect.Api\bin\Debug\net9.0\appsettings.Development.json
+E:\wipro capstone\DoConnect.Api\bin\Debug\net9.0\appsettings.json
+E:\wipro capstone\DoConnect.Api\bin\Debug\net9.0\DoConnect.Api.staticwebassets.runtime.json
+E:\wipro capstone\DoConnect.Api\bin\Debug\net9.0\DoConnect.Api.staticwebassets.endpoints.json
+E:\wipro capstone\DoConnect.Api\bin\Debug\net9.0\DoConnect.Api.exe
+E:\wipro capstone\DoConnect.Api\bin\Debug\net9.0\DoConnect.Api.deps.json
+E:\wipro capstone\DoConnect.Api\bin\Debug\net9.0\DoConnect.Api.runtimeconfig.json
+E:\wipro capstone\DoConnect.Api\bin\Debug\net9.0\DoConnect.Api.dll
+E:\wipro capstone\DoConnect.Api\bin\Debug\net9.0\DoConnect.Api.pdb
+E:\wipro capstone\DoConnect.Api\bin\Debug\net9.0\DoConnect.Api.xml
+E:\wipro capstone\DoConnect.Api\bin\Debug\net9.0\Azure.Core.dll
+E:\wipro capstone\DoConnect.Api\bin\Debug\net9.0\Azure.Identity.dll
+E:\wipro capstone\DoConnect.Api\bin\Debug\net9.0\BCrypt.Net-Next.dll
+E:\wipro capstone\DoConnect.Api\bin\Debug\net9.0\Humanizer.dll
+E:\wipro capstone\DoConnect.Api\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\wipro capstone\DoConnect.Api\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+E:\wipro capstone\DoConnect.Api\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\wipro capstone\DoConnect.Api\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+E:\wipro capstone\DoConnect.Api\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+E:\wipro capstone\DoConnect.Api\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\wipro capstone\DoConnect.Api\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\wipro capstone\DoConnect.Api\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\wipro capstone\DoConnect.Api\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+E:\wipro capstone\DoConnect.Api\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+E:\wipro capstone\DoConnect.Api\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+E:\wipro capstone\DoConnect.Api\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+E:\wipro capstone\DoConnect.Api\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\wipro capstone\DoConnect.Api\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\wipro capstone\DoConnect.Api\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\wipro capstone\DoConnect.Api\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\wipro capstone\DoConnect.Api\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\wipro capstone\DoConnect.Api\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+E:\wipro capstone\DoConnect.Api\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\wipro capstone\DoConnect.Api\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+E:\wipro capstone\DoConnect.Api\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\wipro capstone\DoConnect.Api\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+E:\wipro capstone\DoConnect.Api\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+E:\wipro capstone\DoConnect.Api\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\wipro capstone\DoConnect.Api\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+E:\wipro capstone\DoConnect.Api\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+E:\wipro capstone\DoConnect.Api\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+E:\wipro capstone\DoConnect.Api\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\wipro capstone\DoConnect.Api\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+E:\wipro capstone\DoConnect.Api\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\wipro capstone\DoConnect.Api\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+E:\wipro capstone\DoConnect.Api\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+E:\wipro capstone\DoConnect.Api\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\wipro capstone\DoConnect.Api\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+E:\wipro capstone\DoConnect.Api\bin\Debug\net9.0\Microsoft.OpenApi.dll
+E:\wipro capstone\DoConnect.Api\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+E:\wipro capstone\DoConnect.Api\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+E:\wipro capstone\DoConnect.Api\bin\Debug\net9.0\Mono.TextTemplating.dll
+E:\wipro capstone\DoConnect.Api\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\wipro capstone\DoConnect.Api\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\wipro capstone\DoConnect.Api\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\wipro capstone\DoConnect.Api\bin\Debug\net9.0\System.ClientModel.dll
+E:\wipro capstone\DoConnect.Api\bin\Debug\net9.0\System.CodeDom.dll
+E:\wipro capstone\DoConnect.Api\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+E:\wipro capstone\DoConnect.Api\bin\Debug\net9.0\System.Composition.Convention.dll
+E:\wipro capstone\DoConnect.Api\bin\Debug\net9.0\System.Composition.Hosting.dll
+E:\wipro capstone\DoConnect.Api\bin\Debug\net9.0\System.Composition.Runtime.dll
+E:\wipro capstone\DoConnect.Api\bin\Debug\net9.0\System.Composition.TypedParts.dll
+E:\wipro capstone\DoConnect.Api\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+E:\wipro capstone\DoConnect.Api\bin\Debug\net9.0\System.Drawing.Common.dll
+E:\wipro capstone\DoConnect.Api\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+E:\wipro capstone\DoConnect.Api\bin\Debug\net9.0\System.Memory.Data.dll
+E:\wipro capstone\DoConnect.Api\bin\Debug\net9.0\System.Runtime.Caching.dll
+E:\wipro capstone\DoConnect.Api\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+E:\wipro capstone\DoConnect.Api\bin\Debug\net9.0\System.Security.Permissions.dll
+E:\wipro capstone\DoConnect.Api\bin\Debug\net9.0\System.Windows.Extensions.dll
+E:\wipro capstone\DoConnect.Api\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\wipro capstone\DoConnect.Api\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\wipro capstone\DoConnect.Api\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\wipro capstone\DoConnect.Api\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\wipro capstone\DoConnect.Api\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\wipro capstone\DoConnect.Api\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\wipro capstone\DoConnect.Api\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\wipro capstone\DoConnect.Api\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\wipro capstone\DoConnect.Api\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\wipro capstone\DoConnect.Api\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\wipro capstone\DoConnect.Api\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\wipro capstone\DoConnect.Api\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\wipro capstone\DoConnect.Api\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\wipro capstone\DoConnect.Api\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\wipro capstone\DoConnect.Api\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\wipro capstone\DoConnect.Api\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\wipro capstone\DoConnect.Api\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\wipro capstone\DoConnect.Api\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\wipro capstone\DoConnect.Api\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\wipro capstone\DoConnect.Api\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\wipro capstone\DoConnect.Api\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\wipro capstone\DoConnect.Api\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\wipro capstone\DoConnect.Api\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\wipro capstone\DoConnect.Api\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\wipro capstone\DoConnect.Api\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\wipro capstone\DoConnect.Api\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\wipro capstone\DoConnect.Api\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\wipro capstone\DoConnect.Api\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\wipro capstone\DoConnect.Api\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\wipro capstone\DoConnect.Api\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\wipro capstone\DoConnect.Api\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\wipro capstone\DoConnect.Api\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\wipro capstone\DoConnect.Api\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\wipro capstone\DoConnect.Api\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\wipro capstone\DoConnect.Api\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\wipro capstone\DoConnect.Api\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\wipro capstone\DoConnect.Api\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\wipro capstone\DoConnect.Api\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\wipro capstone\DoConnect.Api\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\wipro capstone\DoConnect.Api\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\wipro capstone\DoConnect.Api\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\wipro capstone\DoConnect.Api\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\wipro capstone\DoConnect.Api\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\wipro capstone\DoConnect.Api\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\wipro capstone\DoConnect.Api\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\wipro capstone\DoConnect.Api\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\wipro capstone\DoConnect.Api\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\wipro capstone\DoConnect.Api\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\wipro capstone\DoConnect.Api\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\wipro capstone\DoConnect.Api\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\wipro capstone\DoConnect.Api\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\wipro capstone\DoConnect.Api\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\wipro capstone\DoConnect.Api\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\wipro capstone\DoConnect.Api\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\wipro capstone\DoConnect.Api\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\wipro capstone\DoConnect.Api\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\wipro capstone\DoConnect.Api\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\wipro capstone\DoConnect.Api\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\wipro capstone\DoConnect.Api\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\wipro capstone\DoConnect.Api\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\wipro capstone\DoConnect.Api\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\wipro capstone\DoConnect.Api\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\wipro capstone\DoConnect.Api\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\wipro capstone\DoConnect.Api\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\wipro capstone\DoConnect.Api\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\wipro capstone\DoConnect.Api\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\wipro capstone\DoConnect.Api\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\wipro capstone\DoConnect.Api\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\wipro capstone\DoConnect.Api\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\wipro capstone\DoConnect.Api\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\wipro capstone\DoConnect.Api\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\wipro capstone\DoConnect.Api\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\wipro capstone\DoConnect.Api\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\wipro capstone\DoConnect.Api\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\wipro capstone\DoConnect.Api\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\wipro capstone\DoConnect.Api\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\wipro capstone\DoConnect.Api\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\wipro capstone\DoConnect.Api\obj\Debug\net9.0\DoConnect.Api.csproj.AssemblyReference.cache
+E:\wipro capstone\DoConnect.Api\obj\Debug\net9.0\rpswa.dswa.cache.json
+E:\wipro capstone\DoConnect.Api\obj\Debug\net9.0\DoConnect.Api.GeneratedMSBuildEditorConfig.editorconfig
+E:\wipro capstone\DoConnect.Api\obj\Debug\net9.0\DoConnect.Api.AssemblyInfoInputs.cache
+E:\wipro capstone\DoConnect.Api\obj\Debug\net9.0\DoConnect.Api.AssemblyInfo.cs
+E:\wipro capstone\DoConnect.Api\obj\Debug\net9.0\DoConnect.Api.csproj.CoreCompileInputs.cache
+E:\wipro capstone\DoConnect.Api\obj\Debug\net9.0\DoConnect.Api.MvcApplicationPartsAssemblyInfo.cs
+E:\wipro capstone\DoConnect.Api\obj\Debug\net9.0\DoConnect.Api.MvcApplicationPartsAssemblyInfo.cache
+E:\wipro capstone\DoConnect.Api\obj\Debug\net9.0\rjimswa.dswa.cache.json
+E:\wipro capstone\DoConnect.Api\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+E:\wipro capstone\DoConnect.Api\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+E:\wipro capstone\DoConnect.Api\obj\Debug\net9.0\scopedcss\bundle\DoConnect.Api.styles.css
+E:\wipro capstone\DoConnect.Api\obj\Debug\net9.0\staticwebassets.build.json
+E:\wipro capstone\DoConnect.Api\obj\Debug\net9.0\staticwebassets.build.json.cache
+E:\wipro capstone\DoConnect.Api\obj\Debug\net9.0\staticwebassets.development.json
+E:\wipro capstone\DoConnect.Api\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+E:\wipro capstone\DoConnect.Api\obj\Debug\net9.0\DoConnec.A17FCAD5.Up2Date
+E:\wipro capstone\DoConnect.Api\obj\Debug\net9.0\DoConnect.Api.dll
+E:\wipro capstone\DoConnect.Api\obj\Debug\net9.0\refint\DoConnect.Api.dll
+E:\wipro capstone\DoConnect.Api\obj\Debug\net9.0\DoConnect.Api.xml
+E:\wipro capstone\DoConnect.Api\obj\Debug\net9.0\DoConnect.Api.pdb
+E:\wipro capstone\DoConnect.Api\obj\Debug\net9.0\DoConnect.Api.genruntimeconfig.cache
+E:\wipro capstone\DoConnect.Api\obj\Debug\net9.0\ref\DoConnect.Api.dll
+E:\wipro capstone\DoConnect.Api\obj\Debug\net9.0\DoConnect.Api.sourcelink.json
+E:\program files\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\appsettings.Development.json
+E:\program files\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\appsettings.json
+E:\program files\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\DoConnect.Api.staticwebassets.runtime.json
+E:\program files\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\DoConnect.Api.staticwebassets.endpoints.json
+E:\program files\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\DoConnect.Api.exe
+E:\program files\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\DoConnect.Api.deps.json
+E:\program files\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\DoConnect.Api.runtimeconfig.json
+E:\program files\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\DoConnect.Api.dll
+E:\program files\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\DoConnect.Api.pdb
+E:\program files\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\DoConnect.Api.xml
+E:\program files\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\Azure.Core.dll
+E:\program files\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\Azure.Identity.dll
+E:\program files\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\BCrypt.Net-Next.dll
+E:\program files\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\Humanizer.dll
+E:\program files\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\program files\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+E:\program files\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\program files\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+E:\program files\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+E:\program files\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\program files\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\program files\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\program files\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+E:\program files\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+E:\program files\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+E:\program files\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+E:\program files\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\program files\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\program files\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\program files\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\program files\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\program files\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+E:\program files\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\program files\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+E:\program files\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\program files\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+E:\program files\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+E:\program files\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\program files\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+E:\program files\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+E:\program files\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+E:\program files\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\program files\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+E:\program files\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\program files\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+E:\program files\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+E:\program files\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\program files\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+E:\program files\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\Microsoft.OpenApi.dll
+E:\program files\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+E:\program files\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+E:\program files\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\Mono.TextTemplating.dll
+E:\program files\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\program files\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\program files\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\program files\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\System.ClientModel.dll
+E:\program files\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\System.CodeDom.dll
+E:\program files\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+E:\program files\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\System.Composition.Convention.dll
+E:\program files\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\System.Composition.Hosting.dll
+E:\program files\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\System.Composition.Runtime.dll
+E:\program files\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\System.Composition.TypedParts.dll
+E:\program files\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+E:\program files\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\System.Drawing.Common.dll
+E:\program files\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\System.Formats.Asn1.dll
+E:\program files\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+E:\program files\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\System.Memory.Data.dll
+E:\program files\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\System.Runtime.Caching.dll
+E:\program files\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+E:\program files\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\System.Security.Permissions.dll
+E:\program files\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\System.Text.Json.dll
+E:\program files\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\System.Windows.Extensions.dll
+E:\program files\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\program files\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\program files\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\program files\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\program files\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\program files\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\program files\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\program files\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\program files\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\program files\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\program files\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\program files\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\program files\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\program files\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\program files\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\program files\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\program files\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\program files\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\program files\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\program files\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\program files\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\program files\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\program files\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\program files\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\program files\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\program files\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\program files\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\program files\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\program files\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\program files\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\program files\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\program files\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\program files\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\program files\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\program files\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\program files\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\program files\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\program files\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\program files\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\program files\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\program files\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\program files\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\program files\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\program files\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\program files\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\program files\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\program files\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\program files\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\program files\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\program files\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\program files\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\program files\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\program files\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\program files\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\program files\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\program files\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\program files\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\program files\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\program files\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\program files\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\program files\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\program files\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\program files\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\program files\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\program files\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\program files\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\program files\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\program files\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\program files\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\program files\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\program files\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\program files\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\program files\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\program files\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\program files\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\program files\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\program files\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\program files\DoConnect.Api\DoConnect.Api\obj\Debug\net9.0\DoConnect.Api.csproj.AssemblyReference.cache
+E:\program files\DoConnect.Api\DoConnect.Api\obj\Debug\net9.0\rpswa.dswa.cache.json
+E:\program files\DoConnect.Api\DoConnect.Api\obj\Debug\net9.0\DoConnect.Api.GeneratedMSBuildEditorConfig.editorconfig
+E:\program files\DoConnect.Api\DoConnect.Api\obj\Debug\net9.0\DoConnect.Api.AssemblyInfoInputs.cache
+E:\program files\DoConnect.Api\DoConnect.Api\obj\Debug\net9.0\DoConnect.Api.AssemblyInfo.cs
+E:\program files\DoConnect.Api\DoConnect.Api\obj\Debug\net9.0\DoConnect.Api.csproj.CoreCompileInputs.cache
+E:\program files\DoConnect.Api\DoConnect.Api\obj\Debug\net9.0\DoConnect.Api.MvcApplicationPartsAssemblyInfo.cs
+E:\program files\DoConnect.Api\DoConnect.Api\obj\Debug\net9.0\DoConnect.Api.MvcApplicationPartsAssemblyInfo.cache
+E:\program files\DoConnect.Api\DoConnect.Api\obj\Debug\net9.0\rjimswa.dswa.cache.json
+E:\program files\DoConnect.Api\DoConnect.Api\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+E:\program files\DoConnect.Api\DoConnect.Api\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+E:\program files\DoConnect.Api\DoConnect.Api\obj\Debug\net9.0\scopedcss\bundle\DoConnect.Api.styles.css
+E:\program files\DoConnect.Api\DoConnect.Api\obj\Debug\net9.0\staticwebassets.build.json
+E:\program files\DoConnect.Api\DoConnect.Api\obj\Debug\net9.0\staticwebassets.build.json.cache
+E:\program files\DoConnect.Api\DoConnect.Api\obj\Debug\net9.0\staticwebassets.development.json
+E:\program files\DoConnect.Api\DoConnect.Api\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+E:\program files\DoConnect.Api\DoConnect.Api\obj\Debug\net9.0\DoConnec.A17FCAD5.Up2Date
+E:\program files\DoConnect.Api\DoConnect.Api\obj\Debug\net9.0\DoConnect.Api.dll
+E:\program files\DoConnect.Api\DoConnect.Api\obj\Debug\net9.0\refint\DoConnect.Api.dll
+E:\program files\DoConnect.Api\DoConnect.Api\obj\Debug\net9.0\DoConnect.Api.xml
+E:\program files\DoConnect.Api\DoConnect.Api\obj\Debug\net9.0\DoConnect.Api.pdb
+E:\program files\DoConnect.Api\DoConnect.Api\obj\Debug\net9.0\DoConnect.Api.genruntimeconfig.cache
+E:\program files\DoConnect.Api\DoConnect.Api\obj\Debug\net9.0\ref\DoConnect.Api.dll
+E:\program files\DOCONNECT WIPRO PROJECT\Backend_DoConnect\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\appsettings.Development.json
+E:\program files\DOCONNECT WIPRO PROJECT\Backend_DoConnect\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\appsettings.json
+E:\program files\DOCONNECT WIPRO PROJECT\Backend_DoConnect\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\DoConnect.Api.staticwebassets.endpoints.json
+E:\program files\DOCONNECT WIPRO PROJECT\Backend_DoConnect\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\DoConnect.Api.staticwebassets.runtime.json
+E:\program files\DOCONNECT WIPRO PROJECT\Backend_DoConnect\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\DoConnect.Api.exe
+E:\program files\DOCONNECT WIPRO PROJECT\Backend_DoConnect\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\DoConnect.Api.deps.json
+E:\program files\DOCONNECT WIPRO PROJECT\Backend_DoConnect\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\DoConnect.Api.runtimeconfig.json
+E:\program files\DOCONNECT WIPRO PROJECT\Backend_DoConnect\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\DoConnect.Api.dll
+E:\program files\DOCONNECT WIPRO PROJECT\Backend_DoConnect\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\DoConnect.Api.pdb
+E:\program files\DOCONNECT WIPRO PROJECT\Backend_DoConnect\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\DoConnect.Api.xml
+E:\program files\DOCONNECT WIPRO PROJECT\Backend_DoConnect\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\Azure.Core.dll
+E:\program files\DOCONNECT WIPRO PROJECT\Backend_DoConnect\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\Azure.Identity.dll
+E:\program files\DOCONNECT WIPRO PROJECT\Backend_DoConnect\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\BCrypt.Net-Next.dll
+E:\program files\DOCONNECT WIPRO PROJECT\Backend_DoConnect\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\Humanizer.dll
+E:\program files\DOCONNECT WIPRO PROJECT\Backend_DoConnect\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\program files\DOCONNECT WIPRO PROJECT\Backend_DoConnect\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+E:\program files\DOCONNECT WIPRO PROJECT\Backend_DoConnect\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\program files\DOCONNECT WIPRO PROJECT\Backend_DoConnect\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+E:\program files\DOCONNECT WIPRO PROJECT\Backend_DoConnect\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+E:\program files\DOCONNECT WIPRO PROJECT\Backend_DoConnect\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\program files\DOCONNECT WIPRO PROJECT\Backend_DoConnect\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\program files\DOCONNECT WIPRO PROJECT\Backend_DoConnect\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\program files\DOCONNECT WIPRO PROJECT\Backend_DoConnect\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+E:\program files\DOCONNECT WIPRO PROJECT\Backend_DoConnect\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+E:\program files\DOCONNECT WIPRO PROJECT\Backend_DoConnect\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+E:\program files\DOCONNECT WIPRO PROJECT\Backend_DoConnect\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+E:\program files\DOCONNECT WIPRO PROJECT\Backend_DoConnect\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\program files\DOCONNECT WIPRO PROJECT\Backend_DoConnect\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\program files\DOCONNECT WIPRO PROJECT\Backend_DoConnect\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\program files\DOCONNECT WIPRO PROJECT\Backend_DoConnect\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\program files\DOCONNECT WIPRO PROJECT\Backend_DoConnect\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\program files\DOCONNECT WIPRO PROJECT\Backend_DoConnect\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+E:\program files\DOCONNECT WIPRO PROJECT\Backend_DoConnect\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\program files\DOCONNECT WIPRO PROJECT\Backend_DoConnect\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+E:\program files\DOCONNECT WIPRO PROJECT\Backend_DoConnect\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\program files\DOCONNECT WIPRO PROJECT\Backend_DoConnect\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+E:\program files\DOCONNECT WIPRO PROJECT\Backend_DoConnect\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+E:\program files\DOCONNECT WIPRO PROJECT\Backend_DoConnect\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\program files\DOCONNECT WIPRO PROJECT\Backend_DoConnect\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+E:\program files\DOCONNECT WIPRO PROJECT\Backend_DoConnect\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+E:\program files\DOCONNECT WIPRO PROJECT\Backend_DoConnect\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+E:\program files\DOCONNECT WIPRO PROJECT\Backend_DoConnect\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\program files\DOCONNECT WIPRO PROJECT\Backend_DoConnect\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+E:\program files\DOCONNECT WIPRO PROJECT\Backend_DoConnect\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\program files\DOCONNECT WIPRO PROJECT\Backend_DoConnect\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+E:\program files\DOCONNECT WIPRO PROJECT\Backend_DoConnect\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+E:\program files\DOCONNECT WIPRO PROJECT\Backend_DoConnect\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\program files\DOCONNECT WIPRO PROJECT\Backend_DoConnect\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+E:\program files\DOCONNECT WIPRO PROJECT\Backend_DoConnect\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\Microsoft.OpenApi.dll
+E:\program files\DOCONNECT WIPRO PROJECT\Backend_DoConnect\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+E:\program files\DOCONNECT WIPRO PROJECT\Backend_DoConnect\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+E:\program files\DOCONNECT WIPRO PROJECT\Backend_DoConnect\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\Mono.TextTemplating.dll
+E:\program files\DOCONNECT WIPRO PROJECT\Backend_DoConnect\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\program files\DOCONNECT WIPRO PROJECT\Backend_DoConnect\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\program files\DOCONNECT WIPRO PROJECT\Backend_DoConnect\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\program files\DOCONNECT WIPRO PROJECT\Backend_DoConnect\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\System.ClientModel.dll
+E:\program files\DOCONNECT WIPRO PROJECT\Backend_DoConnect\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\System.CodeDom.dll
+E:\program files\DOCONNECT WIPRO PROJECT\Backend_DoConnect\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+E:\program files\DOCONNECT WIPRO PROJECT\Backend_DoConnect\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\System.Composition.Convention.dll
+E:\program files\DOCONNECT WIPRO PROJECT\Backend_DoConnect\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\System.Composition.Hosting.dll
+E:\program files\DOCONNECT WIPRO PROJECT\Backend_DoConnect\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\System.Composition.Runtime.dll
+E:\program files\DOCONNECT WIPRO PROJECT\Backend_DoConnect\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\System.Composition.TypedParts.dll
+E:\program files\DOCONNECT WIPRO PROJECT\Backend_DoConnect\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+E:\program files\DOCONNECT WIPRO PROJECT\Backend_DoConnect\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\System.Drawing.Common.dll
+E:\program files\DOCONNECT WIPRO PROJECT\Backend_DoConnect\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\System.Formats.Asn1.dll
+E:\program files\DOCONNECT WIPRO PROJECT\Backend_DoConnect\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+E:\program files\DOCONNECT WIPRO PROJECT\Backend_DoConnect\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\System.Memory.Data.dll
+E:\program files\DOCONNECT WIPRO PROJECT\Backend_DoConnect\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\System.Runtime.Caching.dll
+E:\program files\DOCONNECT WIPRO PROJECT\Backend_DoConnect\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+E:\program files\DOCONNECT WIPRO PROJECT\Backend_DoConnect\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\System.Security.Permissions.dll
+E:\program files\DOCONNECT WIPRO PROJECT\Backend_DoConnect\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\System.Text.Json.dll
+E:\program files\DOCONNECT WIPRO PROJECT\Backend_DoConnect\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\System.Windows.Extensions.dll
+E:\program files\DOCONNECT WIPRO PROJECT\Backend_DoConnect\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\program files\DOCONNECT WIPRO PROJECT\Backend_DoConnect\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\program files\DOCONNECT WIPRO PROJECT\Backend_DoConnect\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\program files\DOCONNECT WIPRO PROJECT\Backend_DoConnect\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\program files\DOCONNECT WIPRO PROJECT\Backend_DoConnect\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\program files\DOCONNECT WIPRO PROJECT\Backend_DoConnect\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\program files\DOCONNECT WIPRO PROJECT\Backend_DoConnect\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\program files\DOCONNECT WIPRO PROJECT\Backend_DoConnect\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\program files\DOCONNECT WIPRO PROJECT\Backend_DoConnect\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\program files\DOCONNECT WIPRO PROJECT\Backend_DoConnect\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\program files\DOCONNECT WIPRO PROJECT\Backend_DoConnect\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\program files\DOCONNECT WIPRO PROJECT\Backend_DoConnect\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\program files\DOCONNECT WIPRO PROJECT\Backend_DoConnect\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\program files\DOCONNECT WIPRO PROJECT\Backend_DoConnect\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\program files\DOCONNECT WIPRO PROJECT\Backend_DoConnect\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\program files\DOCONNECT WIPRO PROJECT\Backend_DoConnect\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\program files\DOCONNECT WIPRO PROJECT\Backend_DoConnect\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\program files\DOCONNECT WIPRO PROJECT\Backend_DoConnect\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\program files\DOCONNECT WIPRO PROJECT\Backend_DoConnect\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\program files\DOCONNECT WIPRO PROJECT\Backend_DoConnect\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\program files\DOCONNECT WIPRO PROJECT\Backend_DoConnect\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\program files\DOCONNECT WIPRO PROJECT\Backend_DoConnect\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\program files\DOCONNECT WIPRO PROJECT\Backend_DoConnect\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\program files\DOCONNECT WIPRO PROJECT\Backend_DoConnect\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\program files\DOCONNECT WIPRO PROJECT\Backend_DoConnect\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\program files\DOCONNECT WIPRO PROJECT\Backend_DoConnect\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\program files\DOCONNECT WIPRO PROJECT\Backend_DoConnect\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\program files\DOCONNECT WIPRO PROJECT\Backend_DoConnect\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\program files\DOCONNECT WIPRO PROJECT\Backend_DoConnect\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\program files\DOCONNECT WIPRO PROJECT\Backend_DoConnect\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\program files\DOCONNECT WIPRO PROJECT\Backend_DoConnect\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\program files\DOCONNECT WIPRO PROJECT\Backend_DoConnect\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\program files\DOCONNECT WIPRO PROJECT\Backend_DoConnect\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\program files\DOCONNECT WIPRO PROJECT\Backend_DoConnect\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\program files\DOCONNECT WIPRO PROJECT\Backend_DoConnect\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\program files\DOCONNECT WIPRO PROJECT\Backend_DoConnect\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\program files\DOCONNECT WIPRO PROJECT\Backend_DoConnect\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\program files\DOCONNECT WIPRO PROJECT\Backend_DoConnect\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\program files\DOCONNECT WIPRO PROJECT\Backend_DoConnect\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\program files\DOCONNECT WIPRO PROJECT\Backend_DoConnect\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\program files\DOCONNECT WIPRO PROJECT\Backend_DoConnect\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\program files\DOCONNECT WIPRO PROJECT\Backend_DoConnect\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\program files\DOCONNECT WIPRO PROJECT\Backend_DoConnect\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\program files\DOCONNECT WIPRO PROJECT\Backend_DoConnect\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\program files\DOCONNECT WIPRO PROJECT\Backend_DoConnect\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\program files\DOCONNECT WIPRO PROJECT\Backend_DoConnect\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\program files\DOCONNECT WIPRO PROJECT\Backend_DoConnect\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\program files\DOCONNECT WIPRO PROJECT\Backend_DoConnect\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\program files\DOCONNECT WIPRO PROJECT\Backend_DoConnect\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\program files\DOCONNECT WIPRO PROJECT\Backend_DoConnect\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\program files\DOCONNECT WIPRO PROJECT\Backend_DoConnect\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\program files\DOCONNECT WIPRO PROJECT\Backend_DoConnect\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\program files\DOCONNECT WIPRO PROJECT\Backend_DoConnect\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\program files\DOCONNECT WIPRO PROJECT\Backend_DoConnect\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\program files\DOCONNECT WIPRO PROJECT\Backend_DoConnect\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\program files\DOCONNECT WIPRO PROJECT\Backend_DoConnect\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\program files\DOCONNECT WIPRO PROJECT\Backend_DoConnect\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\program files\DOCONNECT WIPRO PROJECT\Backend_DoConnect\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\program files\DOCONNECT WIPRO PROJECT\Backend_DoConnect\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\program files\DOCONNECT WIPRO PROJECT\Backend_DoConnect\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\program files\DOCONNECT WIPRO PROJECT\Backend_DoConnect\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\program files\DOCONNECT WIPRO PROJECT\Backend_DoConnect\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\program files\DOCONNECT WIPRO PROJECT\Backend_DoConnect\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\program files\DOCONNECT WIPRO PROJECT\Backend_DoConnect\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\program files\DOCONNECT WIPRO PROJECT\Backend_DoConnect\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\program files\DOCONNECT WIPRO PROJECT\Backend_DoConnect\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\program files\DOCONNECT WIPRO PROJECT\Backend_DoConnect\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\program files\DOCONNECT WIPRO PROJECT\Backend_DoConnect\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\program files\DOCONNECT WIPRO PROJECT\Backend_DoConnect\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\program files\DOCONNECT WIPRO PROJECT\Backend_DoConnect\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\program files\DOCONNECT WIPRO PROJECT\Backend_DoConnect\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\program files\DOCONNECT WIPRO PROJECT\Backend_DoConnect\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\program files\DOCONNECT WIPRO PROJECT\Backend_DoConnect\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\program files\DOCONNECT WIPRO PROJECT\Backend_DoConnect\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\program files\DOCONNECT WIPRO PROJECT\Backend_DoConnect\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\program files\DOCONNECT WIPRO PROJECT\Backend_DoConnect\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\program files\DOCONNECT WIPRO PROJECT\Backend_DoConnect\DoConnect.Api\DoConnect.Api\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\program files\DOCONNECT WIPRO PROJECT\Backend_DoConnect\DoConnect.Api\DoConnect.Api\obj\Debug\net9.0\DoConnect.Api.csproj.AssemblyReference.cache
+E:\program files\DOCONNECT WIPRO PROJECT\Backend_DoConnect\DoConnect.Api\DoConnect.Api\obj\Debug\net9.0\rpswa.dswa.cache.json
+E:\program files\DOCONNECT WIPRO PROJECT\Backend_DoConnect\DoConnect.Api\DoConnect.Api\obj\Debug\net9.0\DoConnect.Api.GeneratedMSBuildEditorConfig.editorconfig
+E:\program files\DOCONNECT WIPRO PROJECT\Backend_DoConnect\DoConnect.Api\DoConnect.Api\obj\Debug\net9.0\DoConnect.Api.AssemblyInfoInputs.cache
+E:\program files\DOCONNECT WIPRO PROJECT\Backend_DoConnect\DoConnect.Api\DoConnect.Api\obj\Debug\net9.0\DoConnect.Api.AssemblyInfo.cs
+E:\program files\DOCONNECT WIPRO PROJECT\Backend_DoConnect\DoConnect.Api\DoConnect.Api\obj\Debug\net9.0\DoConnect.Api.csproj.CoreCompileInputs.cache
+E:\program files\DOCONNECT WIPRO PROJECT\Backend_DoConnect\DoConnect.Api\DoConnect.Api\obj\Debug\net9.0\DoConnect.Api.MvcApplicationPartsAssemblyInfo.cs
+E:\program files\DOCONNECT WIPRO PROJECT\Backend_DoConnect\DoConnect.Api\DoConnect.Api\obj\Debug\net9.0\DoConnect.Api.MvcApplicationPartsAssemblyInfo.cache
+E:\program files\DOCONNECT WIPRO PROJECT\Backend_DoConnect\DoConnect.Api\DoConnect.Api\obj\Debug\net9.0\rjimswa.dswa.cache.json
+E:\program files\DOCONNECT WIPRO PROJECT\Backend_DoConnect\DoConnect.Api\DoConnect.Api\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+E:\program files\DOCONNECT WIPRO PROJECT\Backend_DoConnect\DoConnect.Api\DoConnect.Api\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+E:\program files\DOCONNECT WIPRO PROJECT\Backend_DoConnect\DoConnect.Api\DoConnect.Api\obj\Debug\net9.0\scopedcss\bundle\DoConnect.Api.styles.css
+E:\program files\DOCONNECT WIPRO PROJECT\Backend_DoConnect\DoConnect.Api\DoConnect.Api\obj\Debug\net9.0\staticwebassets.build.json
+E:\program files\DOCONNECT WIPRO PROJECT\Backend_DoConnect\DoConnect.Api\DoConnect.Api\obj\Debug\net9.0\staticwebassets.build.json.cache
+E:\program files\DOCONNECT WIPRO PROJECT\Backend_DoConnect\DoConnect.Api\DoConnect.Api\obj\Debug\net9.0\staticwebassets.development.json
+E:\program files\DOCONNECT WIPRO PROJECT\Backend_DoConnect\DoConnect.Api\DoConnect.Api\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+E:\program files\DOCONNECT WIPRO PROJECT\Backend_DoConnect\DoConnect.Api\DoConnect.Api\obj\Debug\net9.0\DoConnec.A17FCAD5.Up2Date
+E:\program files\DOCONNECT WIPRO PROJECT\Backend_DoConnect\DoConnect.Api\DoConnect.Api\obj\Debug\net9.0\DoConnect.Api.dll
+E:\program files\DOCONNECT WIPRO PROJECT\Backend_DoConnect\DoConnect.Api\DoConnect.Api\obj\Debug\net9.0\refint\DoConnect.Api.dll
+E:\program files\DOCONNECT WIPRO PROJECT\Backend_DoConnect\DoConnect.Api\DoConnect.Api\obj\Debug\net9.0\DoConnect.Api.xml
+E:\program files\DOCONNECT WIPRO PROJECT\Backend_DoConnect\DoConnect.Api\DoConnect.Api\obj\Debug\net9.0\DoConnect.Api.pdb
+E:\program files\DOCONNECT WIPRO PROJECT\Backend_DoConnect\DoConnect.Api\DoConnect.Api\obj\Debug\net9.0\DoConnect.Api.genruntimeconfig.cache
+E:\program files\DOCONNECT WIPRO PROJECT\Backend_DoConnect\DoConnect.Api\DoConnect.Api\obj\Debug\net9.0\ref\DoConnect.Api.dll
